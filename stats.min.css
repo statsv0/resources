@@ -11,14 +11,11 @@ table {
 
 table,
 table thead {
-    width: 100%;
-    min-width: 1000px;
+    width: 1000px;
 }
 
 thead {
     position: absolute;
-    border-left: 20px solid white;
-
 }
 
 tbody {
@@ -65,9 +62,8 @@ tr {
 }
 
 .rank {
-    width: 5px;
+    width: 30px;
     padding: 5px;
-    border-left: 4px solid white;
 }
 
 .top10 {
