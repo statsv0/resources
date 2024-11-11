@@ -95,24 +95,24 @@ tr:nth-child(even) {
 
 .top10-row {
     background-color: #e6d2c352;
-    border-bottom: 1px solid #d8d8d8;
+    border-bottom: 1px solid #d3d3d3;
 
 }
 
 .top20-row {
     background-color: #cbe4e652;
-    border-bottom: 1px solid #a1a1a1;
+    border-bottom: 1px solid #d3d3d3;
 
 }
 
 .top50-row {
     background-color: #e4c9c952;
-    border-bottom: 1px solid #a1a1a1;
+    border-bottom: 1px solid #d3d3d3;
 }
 
 .top100-row {
-    background-color: #ecececc4;
-    border-bottom: 1px solid #a1a1a1;
+    background-color: #ececec38;
+    border-bottom: 1px solid #d3d3d3;
 }
 
 .group-limit {
