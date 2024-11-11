@@ -64,6 +64,7 @@ tr {
 .rank {
     width: 30px;
     padding: 5px;
+    border-left: 4px solid white;
 }
 
 .top10 {
