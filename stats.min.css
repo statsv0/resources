@@ -90,28 +90,28 @@ tr {
 }
 
 tr:nth-child(even) {
-    background-color: #ededed;
+    /*background-color: #ededed;*/
 }
 
 .top10-row {
-    background-color: #e6d2c352 !important;
+    background-color: #e6d2c352;
     border-bottom: 1px solid #d8d8d8;
 
 }
 
 .top20-row {
-    background-color: #cbe4e652 !important;
+    background-color: #cbe4e652;
     border-bottom: 1px solid #a1a1a1;
 
 }
 
 .top50-row {
-    background-color: #e4c9c952 !important;
+    background-color: #e4c9c952;
     border-bottom: 1px solid #a1a1a1;
 }
 
 .top100-row {
-    background-color: #ecececc4 !important;
+    background-color: #ecececc4;
     border-bottom: 1px solid #a1a1a1;
 }
 
